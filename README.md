@@ -1,5 +1,5 @@
 # G-DORK
-![G](G.jpg)
+![G](G.png)
 # WELCOME SC GOOGLE DORK
 
 Google Dork tool sederhana untuk mencari informasi melalui dork, menyimpan hasil, dan installer tools security.
