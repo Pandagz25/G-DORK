@@ -5,7 +5,9 @@
 Google Dork tool sederhana untuk mencari informasi melalui dork, menyimpan hasil, dan installer tools security.
 
 ---
-
+## TAMPILAN
+![TAMPILAN](Screenshot_2026-02-26-12-20-31-02.jpg)
+---
 ## 📌 INFO
 
 Script ini memiliki fitur:
@@ -48,6 +50,7 @@ git clone https://github.com/Pandagz25/G-DORK
 cd G-DORK
 pip install -r text.txt
 python G-DORK.py
+```
 ---
 
 📂 STRUKTUR
